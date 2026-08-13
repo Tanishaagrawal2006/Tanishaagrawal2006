@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,20:302b63,40:6a3093,60:9d4edd,80:c86dd7,100:ff8fd8&height=220&section=header&text=Tanisha%20Agrawal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%26%20Scientist&descAlignY=60&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,20:302b63,40:6a3093,60:9d4edd,80:c86dd7,100:ff8fd8&height=220&section=header&text=Tanisha%20Agrawal&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%26%20Scientist&descAlignY=60&descSize=20" />
 
 <br/>
 
@@ -132,7 +132,7 @@ Sant Gyaneshwar Model School, Delhi &nbsp;·&nbsp; `2022 – 2024` &nbsp;·&nbsp
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Tanishaagrawal2006&hide_border=true&background=0f0c29&border=6a3093&ring=D946EF&fire=F472B6&currStreakLabel=D946EF&sideLabels=E0AAFF&dates=C77DFF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Tanishaagrawal2006&hide_border=true&background=0f0c29&border=6a3093&ring=D946EF&fire=F472B6&currStreakNum=E0AAFF&sideNums=E0AAFF&currStreakLabel=D946EF&sideLabels=E0AAFF&dates=C77DFF" alt="GitHub Streak" />
 
 <br/><br/>
 
