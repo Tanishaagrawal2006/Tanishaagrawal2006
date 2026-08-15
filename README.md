@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,20:302b63,40:6a3093,60:9d4edd,80:c86dd7,100:ff8fd8&height=220&section=header&text=Tanisha%20Agrawal&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%26%20Scientist&descAlignY=60&descSize=20&v=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a1040,60:2d1b69,100:0f0c29&height=220&section=header&text=Tanisha%20Agrawal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%20Engineer&descAlignY=60&descSize=20" />
 
 <br/>
 
@@ -141,6 +141,18 @@ Sant Gyaneshwar Model School, Delhi &nbsp;·&nbsp; `2022 – 2024` &nbsp;·&nbsp
 </div>
 
 ---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanishaagrawal2006/Tanishaagrawal2006/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanishaagrawal2006/Tanishaagrawal2006/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Tanishaagrawal2006/Tanishaagrawal2006/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
 
 <div align="center">
 
