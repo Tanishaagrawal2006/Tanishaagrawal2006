@@ -1,19 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,30:141852,60:1e2a78,100:1e3a8a&height=220&section=header&text=Tanisha%20Agrawal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%20Engineer&descAlignY=60&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a1040,60:2d1b69,100:0f0c29&height=220&section=header&text=Tanisha%20Agrawal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%20Engineer&descAlignY=60&descSize=20" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=700&lines=Data+Analyst+%26+Scientist;AI+%26+Data+Intelligence+Intern+%40+Graphura+India;PR+Lead+%40+HackData+%26+Surge;Google+Developer+Groups+-+EM+Lead" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=3000&pause=900&color=D946EF&center=true&vCenter=true&width=700&lines=Data+Analyst+%26+Scientist;AI+%26+Data+Intelligence+Intern+%40+Graphura+India;PR+Lead+%40+HackData+%26+Surge;Google+Developer+Groups+-+EM+Lead" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-agrawal-288927341/)
-[![Email](https://img.shields.io/badge/Email-3730A3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ag.tanisha06@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=60A5FA)](https://leetcode.com/u/Tanishaagrawal_06/)
-[![GitHub](https://img.shields.io/badge/GitHub-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanishaagrawal2006)
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ag.tanisha06@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1a1030?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Tanishaagrawal_06/)
+[![GitHub](https://img.shields.io/badge/GitHub-C026D3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanishaagrawal2006)
 
 </div>
 
@@ -66,30 +66,30 @@ A portfolio evaluation system that assesses internship readiness based on skills
 
 **Programming and Databases**
 
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=818CF8)
-![C](https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=818CF8)
-![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=818CF8)
-![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=818CF8)
-![HTML](https://img.shields.io/badge/HTML-0f172a?style=for-the-badge&logo=html5&logoColor=818CF8)
+![Python](https://img.shields.io/badge/Python-1a1030?style=for-the-badge&logo=python&logoColor=C77DFF)
+![C](https://img.shields.io/badge/C-1a1030?style=for-the-badge&logo=c&logoColor=C77DFF)
+![SQL](https://img.shields.io/badge/SQL-1a1030?style=for-the-badge&logo=postgresql&logoColor=C77DFF)
+![MySQL](https://img.shields.io/badge/MySQL-1a1030?style=for-the-badge&logo=mysql&logoColor=C77DFF)
+![HTML](https://img.shields.io/badge/HTML-1a1030?style=for-the-badge&logo=html5&logoColor=C77DFF)
 
 **Data and AI**
 
-![Pandas](https://img.shields.io/badge/Pandas-141852?style=for-the-badge&logo=pandas&logoColor=6366F1)
-![NumPy](https://img.shields.io/badge/NumPy-141852?style=for-the-badge&logo=numpy&logoColor=6366F1)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-141852?style=for-the-badge&logo=scikitlearn&logoColor=6366F1)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-141852?style=for-the-badge&logoColor=6366F1)
-![NLP](https://img.shields.io/badge/NLP-141852?style=for-the-badge&logoColor=6366F1)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-141852?style=for-the-badge&logoColor=6366F1)
+![Pandas](https://img.shields.io/badge/Pandas-241046?style=for-the-badge&logo=pandas&logoColor=D946EF)
+![NumPy](https://img.shields.io/badge/NumPy-241046?style=for-the-badge&logo=numpy&logoColor=D946EF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-241046?style=for-the-badge&logo=scikitlearn&logoColor=D946EF)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-241046?style=for-the-badge&logoColor=D946EF)
+![NLP](https://img.shields.io/badge/NLP-241046?style=for-the-badge&logoColor=D946EF)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-241046?style=for-the-badge&logoColor=D946EF)
 
 **Cloud and Tools**
 
-![AWS](https://img.shields.io/badge/AWS-1e2a78?style=for-the-badge&logo=amazonaws&logoColor=60A5FA)
-![Linux](https://img.shields.io/badge/Linux-1e2a78?style=for-the-badge&logo=linux&logoColor=60A5FA)
-![Git](https://img.shields.io/badge/Git-1e2a78?style=for-the-badge&logo=git&logoColor=60A5FA)
-![GitHub](https://img.shields.io/badge/GitHub-1e2a78?style=for-the-badge&logo=github&logoColor=60A5FA)
-![Supabase](https://img.shields.io/badge/Supabase-1e2a78?style=for-the-badge&logo=supabase&logoColor=60A5FA)
-![Render](https://img.shields.io/badge/Render-1e2a78?style=for-the-badge&logo=render&logoColor=60A5FA)
-![Excel](https://img.shields.io/badge/Excel-1e2a78?style=for-the-badge&logo=microsoftexcel&logoColor=60A5FA)
+![AWS](https://img.shields.io/badge/AWS-2d0a3d?style=for-the-badge&logo=amazonaws&logoColor=F472B6)
+![Linux](https://img.shields.io/badge/Linux-2d0a3d?style=for-the-badge&logo=linux&logoColor=F472B6)
+![Git](https://img.shields.io/badge/Git-2d0a3d?style=for-the-badge&logo=git&logoColor=F472B6)
+![GitHub](https://img.shields.io/badge/GitHub-2d0a3d?style=for-the-badge&logo=github&logoColor=F472B6)
+![Supabase](https://img.shields.io/badge/Supabase-2d0a3d?style=for-the-badge&logo=supabase&logoColor=F472B6)
+![Render](https://img.shields.io/badge/Render-2d0a3d?style=for-the-badge&logo=render&logoColor=F472B6)
+![Excel](https://img.shields.io/badge/Excel-2d0a3d?style=for-the-badge&logo=microsoftexcel&logoColor=F472B6)
 
 </div>
 
@@ -126,17 +126,17 @@ Sant Gyaneshwar Model School, Delhi &nbsp;·&nbsp; `2022 – 2024` &nbsp;·&nbsp
 <div align="center">
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=Tanishaagrawal2006&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=6366F1&icon_color=818CF8&text_color=A5B4FC&bg_color=0a0e27" />
-  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Tanishaagrawal2006&layout=compact&hide_border=true&title_color=6366F1&text_color=A5B4FC&bg_color=0a0e27" />
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=Tanishaagrawal2006&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=D946EF&icon_color=C77DFF&text_color=E0AAFF&bg_color=0f0c29" />
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Tanishaagrawal2006&layout=compact&hide_border=true&title_color=D946EF&text_color=E0AAFF&bg_color=0f0c29" />
 </p>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Tanishaagrawal2006&hide_border=true&background=0a0e27&border=3730A3&ring=6366F1&fire=60A5FA&currStreakNum=A5B4FC&sideNums=A5B4FC&currStreakLabel=6366F1&sideLabels=A5B4FC&dates=818CF8" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Tanishaagrawal2006&hide_border=true&background=0f0c29&border=6a3093&ring=D946EF&fire=F472B6&currStreakNum=E0AAFF&sideNums=E0AAFF&currStreakLabel=D946EF&sideLabels=E0AAFF&dates=C77DFF" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishaagrawal2006&hide_border=true&bg_color=0a0e27&color=818CF8&line=6366F1&point=60A5FA&area=true&area_color=1e2a78&title_color=6366F1" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishaagrawal2006&hide_border=true&bg_color=0f0c29&color=C77DFF&line=D946EF&point=F472B6&area=true&area_color=7c3aed&title_color=D946EF" alt="Activity Graph" />
 
 </div>
 
@@ -150,4 +150,12 @@ Sant Gyaneshwar Model School, Delhi &nbsp;·&nbsp; `2022 – 2024` &nbsp;·&nbsp
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,35:1e2a78,70:3b4dbb,100:6366f1&height=110&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,35:6a3093,70:c86dd7,100:ff8fd8&height=110&section=footer" />
+
+
+
+
+
+
+
+
