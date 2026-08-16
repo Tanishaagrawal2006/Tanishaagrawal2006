@@ -132,7 +132,9 @@ Sant Gyaneshwar Model School, Delhi &nbsp;·&nbsp; `2022 – 2024` &nbsp;·&nbsp
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Tanishaagrawal2006&theme=dark&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tanishaagrawal2006" alt="GitHub Streak" />
+</p>
 
 <br/><br/>
 
